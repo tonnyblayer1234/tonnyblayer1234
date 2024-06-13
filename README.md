@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonnyblayer1234&show_icons=true&locale=en" alt="tonnyblayer1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonnyblayer1234&" alt="tonnyblayer1234" /></p>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is A.VINEETH and I'm a Android Devoloper, from Andhra</h2>
 
 ###
 
